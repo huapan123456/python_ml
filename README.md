@@ -1,2 +1,2 @@
-# python_sz_03
+# python_ml
 Machine learning  demo
